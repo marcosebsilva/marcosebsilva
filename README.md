@@ -1,6 +1,6 @@
 ### Hi there, my name is Marcos 👋
 
-- 🔭 I’m currently studying Web Development at Trybe.
+- 🔭 I’m studying Web Development at Trybe.
 - 🌱 Currently, my main focus is to learn React, Redux, some CSS pre-processors (mainly SASS) and TypeScript.
 - 📫 You can reach me on [LinkedIN](https://www.linkedin.com/in/marcosestevaobs/) or in my email : dusdoom.dev@gmail.com
 ## I'm pretty sure we can learn something with each other :)
