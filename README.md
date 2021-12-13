@@ -4,6 +4,8 @@
 - 🌱 Currently, my main focus is to learn React, Redux, some CSS pre-processors (mainly SASS) and TypeScript.
 - 📫 You can reach me on [LinkedIN](https://www.linkedin.com/in/marcosestevaobs/) or in my email : dusdoom.dev@gmail.com
 ## I'm pretty sure we can learn something with each other :)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosebsilva&layout=compact&theme=react)
