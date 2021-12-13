@@ -5,7 +5,7 @@
 - 📫 You can reach me on [LinkedIN](https://www.linkedin.com/in/marcosestevaobs/) or in my email : dusdoom.dev@gmail.com
 ## I'm pretty sure we can learn something with each other :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&theme=react&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosebsilva&layout=compact&theme=react)
 <!--  credits to (https://github.com/anuraghazra/github-readme-stats)-->
 
