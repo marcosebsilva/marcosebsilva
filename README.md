@@ -56,7 +56,7 @@
   <summary><b>💻 Estatísticas do perfil</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Marcosastha''s Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcosebsilva&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosebsilva&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
@@ -68,7 +68,7 @@
 <details>
   <summary><b>⚡Atividade recente </b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marcosebsilva&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aastha12"><img alt="Marcos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marcosebsilva&custom_title=Marcos%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -78,6 +78,5 @@
 
 
 
-
-#### Template feito por [aastha12](https://github.com/aastha12);
+[//]: # (Template feito por aastha12 - https://github.com/aastha12)
 
