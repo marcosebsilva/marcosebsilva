@@ -6,7 +6,7 @@
 
 - 💼 Estudando desenvolvimento fullstack na Trybe.
 - 💬 Adoro falar sobre React, UI/UX e uns joguinhos eletrônicos!
-- 👯 Estou disposto a trabalhar ou voluntariar em qualquer equipe pra aprender mais sobre front e backend!
+- 👯 Estou disposto a trabalhar ou voluntariar em uma equipe pra aprender mais sobre front e backend!
 
 <a href="https://www.linkedin.com/in/marcosestevaobs/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,7 +24,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 <a href="#">
-  <img alt="HTML" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 <a href="https://nextjs.org" target="_blank">
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
