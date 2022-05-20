@@ -1,10 +1,10 @@
-<h1> Olá, meu nome é Marcos! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Olá, meu nome é Marcos!</h1>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bem+vindo+ao+meu+perfil!;Sou+desenvolvedor+fullstack!;Sou+desenvolvedor+front+end!;Sou+desenvolvedor+back+end!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Sou+desenvolvedor+fullstack!;Sou+desenvolvedor+front+end!;Sou+desenvolvedor+back+end!" /></a>
 </p>
 
-- 💼 Estudando desenvolvimento fullstack na Trybe.
+- 💼 Estudando desenvolvimento fullstack.
 - 💬 Adoro falar sobre React, UI/UX e uns joguinhos eletrônicos!
 - 👯 Estou disposto a trabalhar ou voluntariar em uma equipe pra aprender mais sobre front e backend!
 
@@ -16,7 +16,7 @@
 </a>
 
 
-<h1>Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<h1>Habilidades</h1>
 <a href="https://www.typescriptlang.org" target="_blank"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
@@ -50,7 +50,7 @@
 <a href="https://styled-components.com"><img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
 <a href="https://mochajs.org"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"></a>
 <a href="https://redux.js.org"><img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>																	     
-<h2> Estatísticas Github (Clique para expandir) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> Estatísticas Github</h2>
 
 <details> 
   <summary><b>💻 Estatísticas do perfil</b></summary>
