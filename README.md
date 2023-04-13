@@ -1,4 +1,4 @@
-<h1> Olá, meu nome é Marcos!</h1>
+<h1> Hi, my name is Marcos!</h1>
 
 - Currently working as a front-end developer. Always learning.
 
