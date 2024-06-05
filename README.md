@@ -1,6 +1,6 @@
 <h1> Hi, my name is Marcos!</h1>
 
-- Currently working as a front-end developer. Always learning.
+- I like to do stuff.
 
 <a href="https://www.linkedin.com/in/marcosestevaobs/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
